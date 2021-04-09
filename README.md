@@ -1,4 +1,4 @@
 # Hello World Project
 
-`ScreenShot`
+**Resulting Screenshot**
 <img src= ./screenshots/screenshot.jpeg>
